@@ -1,1 +1,1 @@
-hi
+I am but a humble novice in the venerable craft of C programming. The syntax may, at first, appear a touch confounding—nay, even rather bothersome—but I shall not be deterred! With steady application and a smattering of perseverance, I shall surely come to grips with this most splendid of arts. Each minor setback will serve only to sharpen my wits, and in time, I shall wield the language with the grace and dexterity of a seasoned programmer. Onward, then, to mastery, with nary a hint of trepidation!
